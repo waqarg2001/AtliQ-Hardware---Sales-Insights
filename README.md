@@ -1,6 +1,7 @@
 # AtliQ Hardware Sales Insights
-
-<img src="https://github.com/waqarg2001/AtliQ-Hardware-Sales-Insights/blob/master/logo.png" width="200" height="200">
+<p align="center">
+<img src="https://github.com/waqarg2001/AtliQ-Hardware-Sales-Insights/blob/master/logo.png" width="500" height="500">
+</p>
 
 Atliq Hardware is a which supplies the hardware peripherals to different clients, such as nomad stores, excel stores, surge stores and its sales are declining.The company has a head office in Dehli and regional offices throughout India.
 
@@ -33,3 +34,19 @@ An automated dashboard providing quick and latest sales insights in order to sup
 -Sales team able to take better decisions and prove 10% cost savings of total spend.
 
 -Sales Analyst stop gathering data manually in order to save 20% of their business time and reinvest it in any value added activity.
+
+
+
+### Dashbaord version 1
+
+<p align="center">
+<img src="https://github.com/waqarg2001/AtliQ-Hardware-Sales-Insights/blob/master/dashboard.png">
+</p>
+
+### Dashbaord version 2
+
+<p align="center">
+<img src="https://github.com/waqarg2001/AtliQ-Hardware-Sales-Insights/blob/master/Dashboard%202.png">
+</p>
+
+
