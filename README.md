@@ -9,7 +9,7 @@ The market is growing dynamically and the company's sales director is worried ab
 
 Just hearing the numbers or receiving tons of excel files is far from being effective in terms of having a reliable overview of the business. Instead, he wants look at the data and understand what’s going on right away.
 
-In this project I am going to do simeple data analysis on the business in terms of its sales using SQL and later a dashbaord will be made using Tableau to visualize the data, extract valuable insights from it and help make data driven decisions which brings back AtliQ Hardware back on track.
+In this project I am going to do simple data analysis on the business in terms of its sales using SQL and later a dashbaord will be made using Tableau to visualize the data, extract valuable insights from it and help make data driven decisions which brings back AtliQ Hardware back on track.
 
 ### Purpose
 To unlock sales insights that are not visible before sales team for decision support and automate them to reduce manual time spent in data gathering.
