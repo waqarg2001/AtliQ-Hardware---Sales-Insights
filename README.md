@@ -9,7 +9,7 @@ The market is growing dynamically and the company's sales director is worried ab
 
 Just hearing the numbers or receiving tons of excel files is far from being effective in terms of having a reliable overview of the business. Instead, he wants look at the data and understand what’s going on right away.
 
-In this notebook I am going to analyze the business in terms of its sales using SQL and later a dashbaord will be made using Tableau to visualize the data, extract valuable insights from it and help make data driven decisions which brings back AtliQ Hardware back on track.
+In this project I am going to do simeple data analysis on the business in terms of its sales using SQL and later a dashbaord will be made using Tableau to visualize the data, extract valuable insights from it and help make data driven decisions which brings back AtliQ Hardware back on track.
 
 ### Purpose
 To unlock sales insights that are not visible before sales team for decision support and automate them to reduce manual time spent in data gathering.
@@ -37,13 +37,14 @@ An automated dashboard providing quick and latest sales insights in order to sup
 
 
 
-### Dashbaord version 1
+### Dashbaord Version 1
 
 <p align="center">
 <img src="https://github.com/waqarg2001/AtliQ-Hardware-Sales-Insights/blob/master/dashboard.png">
 </p>
 
-### Dashbaord version 2
+
+### Dashbaord Version 2
 
 <p align="center">
 <img src="https://github.com/waqarg2001/AtliQ-Hardware-Sales-Insights/blob/master/Dashboard%202.png">
