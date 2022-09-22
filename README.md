@@ -1,6 +1,6 @@
 # AtliQ Hardware Sales Insights
 
-<img src="https://github.com/waqarg2001/AtliQ-Hardware-Sales-Insights/blob/master/logo.png" width="200" height="200")
+<img src="https://github.com/waqarg2001/AtliQ-Hardware-Sales-Insights/blob/master/logo.png" width="200" height="200">
 
 Atliq Hardware is a which supplies the hardware peripherals to different clients, such as nomad stores, excel stores, surge stores and its sales are declining.The company has a head office in Dehli and regional offices throughout India.
 
